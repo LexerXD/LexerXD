@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LexerXD
+- 👋 Hi, I’m @Shinohara
 - 👀 I’m interested in coding like html,css,vs code
 - 🌱 I’m currently learning JavaScript, Python
 - 💞️ I’m looking to collaborate on ...
